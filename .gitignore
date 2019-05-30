@@ -1,2 +1,6 @@
 .idea
-
+.iml
+.metals
+.bloop
+target
+task-filter-columns/target/

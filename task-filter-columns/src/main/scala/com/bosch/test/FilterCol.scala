@@ -3,7 +3,7 @@ package com.bosch.test
 import org.apache.spark.sql.DataFrame
 
 /**
-  * Created by Judy
+  * Created by Judy Zhu
   */
 
 object FilterCol {
