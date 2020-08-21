@@ -1,4 +1,4 @@
-# Coding Challange
+# Coding Challenge
 
 ### Introduction
 

@@ -9,7 +9,6 @@ class FilterColScalaTest extends FlatSpec with Matchers with SparkSessionTestWra
 
   case class phoneNumbers(c1: String, c2: String, c3: String, c4: String, c5: String)
 
-
   "FilterCol" should "filter out invalid columns" in {
 
     val example = Seq(

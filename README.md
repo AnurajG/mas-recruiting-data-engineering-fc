@@ -14,7 +14,7 @@ The goals of the tasks are to pass all tests and implement it in a way that it p
 
 ### Comment
 
-You're not familiar with Scala, this is no problem. Just implement it in Java and replace the [Implicit Class](http://docs.scala-lang.org/overviews/core/implicit-classes.html) with an instance of your Java class.
+It's ok if you're not familiar with Scala. Just implement it in Java and replace the [Implicit Class](http://docs.scala-lang.org/overviews/core/implicit-classes.html) with an instance of your Java class.
 
 ### Feedback/Questions
 
