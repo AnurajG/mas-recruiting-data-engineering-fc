@@ -18,5 +18,5 @@ It's ok if you're not familiar with Scala. Just implement it in Java and replace
 
 ### Feedback/Questions
 
-Please contact `Judy.Zhu3@us.bosch.com` for feedback and questions.
+Please contact `Judy.Zhu3@us.bosch.com` and `Sam.Kimport@us.bosch.com` for feedback and questions.
 
